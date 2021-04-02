@@ -175,6 +175,7 @@ button:hover {
 }
 
 footer {
+    width: 100%;
     margin-top: 50px;
     padding: 0px;
     border-top: 3px solid #00C7FF ;
