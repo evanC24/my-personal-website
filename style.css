@@ -165,6 +165,7 @@ footer {
 .contacts{
     width: 100vw;
     margin: 0 auto;
+    padding: 20px 0;
 }
 .contacts p {
     display: inline-block;
