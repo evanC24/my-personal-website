@@ -71,16 +71,12 @@ header {
 }
 
 .intro {
-    margin: 50px auto;
+    margin: 85px auto;
     color: #eeeeee;
     height: 50vh;
     width: 50vh;
     /*box-shadow: 0px 0px 20px 1px black;*/
     
-}
-.intro-content:hover {
-    box-shadow: 0px 0px 30px 15px #00C7FF;
-    transition: 1s ease;
 }
 .intro-content{
     background-color: #909090;
@@ -89,7 +85,11 @@ header {
     margin: 0 auto;
     padding-top: 10%;
     border-radius: 50%;
-    box-shadow: 0px 0px 25px 10px #00C7FF;
+    box-shadow: 0px 0px 37px 17px #00C7FF;
+}
+.intro-content:hover {
+    box-shadow: 0px 0px 45px 20px #00C7FF;
+    transition: 1s ease;
 }
 .profile-pic {
     width: 35%;
@@ -107,8 +107,9 @@ header {
     width: 7%;
     margin: 10px auto;
 }
-
-
+.description {
+    margin-top: 75px;
+}
 .skills {
     width: 60%;
     margin: 150px auto;
